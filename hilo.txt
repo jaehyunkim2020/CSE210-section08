@@ -1,3 +1,6 @@
-game (class): points (function) players (function)
+HighLows (class): calls cards class and player class to calculate winner by callingg the addpoints / subtract points
+-reset option / forced reset
 
-cards (class): shuffle (function) draw card(function)
+cards (class): shuffle (function) draw (function)
+
+player (class): set 300 points (function) addpoints / subtract points 
