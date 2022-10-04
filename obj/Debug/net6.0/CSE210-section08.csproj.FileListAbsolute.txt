@@ -1,0 +1,15 @@
+C:\Users\jaehy\OneDrive\Desktop\School\CSE210\CSE210-section08\bin\Debug\net6.0\CSE210-section08.exe
+C:\Users\jaehy\OneDrive\Desktop\School\CSE210\CSE210-section08\bin\Debug\net6.0\CSE210-section08.deps.json
+C:\Users\jaehy\OneDrive\Desktop\School\CSE210\CSE210-section08\bin\Debug\net6.0\CSE210-section08.runtimeconfig.json
+C:\Users\jaehy\OneDrive\Desktop\School\CSE210\CSE210-section08\bin\Debug\net6.0\CSE210-section08.dll
+C:\Users\jaehy\OneDrive\Desktop\School\CSE210\CSE210-section08\bin\Debug\net6.0\CSE210-section08.pdb
+C:\Users\jaehy\OneDrive\Desktop\School\CSE210\CSE210-section08\obj\Debug\net6.0\CSE210-section08.csproj.AssemblyReference.cache
+C:\Users\jaehy\OneDrive\Desktop\School\CSE210\CSE210-section08\obj\Debug\net6.0\CSE210-section08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaehy\OneDrive\Desktop\School\CSE210\CSE210-section08\obj\Debug\net6.0\CSE210-section08.AssemblyInfoInputs.cache
+C:\Users\jaehy\OneDrive\Desktop\School\CSE210\CSE210-section08\obj\Debug\net6.0\CSE210-section08.AssemblyInfo.cs
+C:\Users\jaehy\OneDrive\Desktop\School\CSE210\CSE210-section08\obj\Debug\net6.0\CSE210-section08.csproj.CoreCompileInputs.cache
+C:\Users\jaehy\OneDrive\Desktop\School\CSE210\CSE210-section08\obj\Debug\net6.0\CSE210-section08.dll
+C:\Users\jaehy\OneDrive\Desktop\School\CSE210\CSE210-section08\obj\Debug\net6.0\refint\CSE210-section08.dll
+C:\Users\jaehy\OneDrive\Desktop\School\CSE210\CSE210-section08\obj\Debug\net6.0\CSE210-section08.pdb
+C:\Users\jaehy\OneDrive\Desktop\School\CSE210\CSE210-section08\obj\Debug\net6.0\CSE210-section08.genruntimeconfig.cache
+C:\Users\jaehy\OneDrive\Desktop\School\CSE210\CSE210-section08\obj\Debug\net6.0\ref\CSE210-section08.dll
