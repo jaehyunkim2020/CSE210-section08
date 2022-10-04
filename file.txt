@@ -1,2 +1,6 @@
 Shalom
+<<<<<<< Updated upstream
 qo;wehfo;jvandf
+=======
+Shaddooom
+>>>>>>> Stashed changes
