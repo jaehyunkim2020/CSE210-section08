@@ -24,10 +24,69 @@ class cards {
 class game {
     
     
+    //calls player to set points
+
+    cards cards = new cards(); //calls cards to set cards, do cards get modified in functions without needing to do a return function
+
     int points = 300;
+    public game() {
+        string answer = "";
 
-    cards cards = new cards();
+        while (answer != "N") {
+        Console.WriteLine("Welcome to HighLow the game! Would you like to play?: (Y/N) ");
+        answer = Console.ReadLine() ?? "";
+        
+        if (answer.ToUpper() == "Y")
+        {
+            play();
+            Console.WriteLine("Thanks for playing");
+        }
+        else if (answer.ToUpper() == "N")
+        {
+            Console.WriteLine("Please come again!");
+        }
+        else
+        {
+            Console.WriteLine("Unrecognized command");
+        }
+        }
+    }
 
+    public void play()
+    {
+        //initial card with draw card
+        int initial = 
+        //
+        //guess
+        string guess = Console.ReadLine() ?? "";
+        //draw card and run game <- draw card can be changed into the initial card to be printed
+        int draw = DrawCard();
+        if (HighLow(initial, draw, guess))
+        {
+            //player AddPoints();
+        }
+        else 
+        {
+            //player SubtractPoints();
+        }
+        //if true, add points function, if false, subtract points function
+        
+    }
+
+
+
+    public bool HighLow(int card, int previous, string guess){
+        //maybe takes in the card and previous and the guess and spits out true or false
+        if ((card >= previous) & (guess.ToLower() == "h")){
+            return true;
+        }
+        else if ((card <= previous) & (guess.ToLower() == "l")){
+            return true;
+        }
+        return false;
+    }
+
+    //and then add a "IF TRUE ADD" else "IF FALSE SUBTRACT" there might be a thing that warns us if we have a void, actually nvm, it will be false as default
 
     public int DrawCard(List<int> cards){
 
